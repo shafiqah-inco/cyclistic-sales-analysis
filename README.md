@@ -1,4 +1,4 @@
-# cyclistic-sales-analysis
+# Cyclistic Sales Analysis
 ## 1st Case Study of Google Data Analytics Professional Certificate
 #### Shafiqah Arif - 9 June 2025
 
