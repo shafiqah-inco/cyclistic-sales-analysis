@@ -44,7 +44,7 @@ visualizations.
 ## 📌 Reflections
 This project allowed me to apply the full data analysis process — from data cleaning to business recommendation. It’s part of my portfolio built after completing the Google Data Analytics Certificate.
 
-## 🔗 Connect with Me
+## 🔗 Connect with Me1
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/) or leave feedback on this repo!
 
 ---
